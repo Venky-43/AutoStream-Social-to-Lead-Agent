@@ -45,7 +45,7 @@ autostream-agent/
 
 ## 1. Clone the Repository
 
-git clone <>
+git clone <https://github.com/Venky-43/AutoStream-Social-to-Lead-Agent>
 cd autostream-agent
 
 ## 2. Create Virtual Environment (Recommended)
