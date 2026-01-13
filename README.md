@@ -94,7 +94,7 @@ Agent: Thanks venky! Your free trial for AutoStream is being set up 🚀
 
 ## Backend output:
 
-Lead captured successfully: Ramu, ramu@gmail.com, YouTube
+Lead captured successfully: Venky, Venky@gmail.com, YouTube
 
 ## 👤 Author
 
