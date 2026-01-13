@@ -46,11 +46,13 @@ autostream-agent/
 ## 1. Clone the Repository
 
 git clone <https://github.com/Venky-43/AutoStream-Social-to-Lead-Agent>
+
 cd autostream-agent
 
 ## 2. Create Virtual Environment (Recommended)
 
 python -m venv venv
+
 venv\Scripts\activate
 
 ## 3. Install Dependencies
@@ -63,6 +65,7 @@ python -m pip install -r requirements.txt
 uvicorn backend.api:api --reload
 
 Backend will run at:
+
 http://127.0.0.1:8000
 
 ## 5. Run Frontend
@@ -74,22 +77,28 @@ frontend/index.html
 ## 💬 Sample Conversation
 
 User: Hi
+
 Agent: Hello! How can I help you with AutoStream today?
 
 User: What are your pricing plans?
+
 Agent: Basic Plan: $29/month – 10 videos/month, 720p resolution
        Pro Plan: $79/month – Unlimited videos, 4K resolution, AI captions, 24/7 support
 
 User: I want to try the Pro plan
+
 Agent: Great! I’ll just need a few details to get you started.
 
 User: Venky
+
 Agent: Please share your email address.
 
 User: venky@gmail.com
+
 Agent: Which platform do you create content on?
 
 User: YouTube
+
 Agent: Thanks venky! Your free trial for AutoStream is being set up 🚀
 
 ## Backend output:
@@ -99,6 +108,7 @@ Lead captured successfully: Venky, Venky@gmail.com, YouTube
 ## 👤 Author
 
 Venkannababu Kothapalli
+
 Machine Learning Intern Applicant – ServiceHive
 
 
